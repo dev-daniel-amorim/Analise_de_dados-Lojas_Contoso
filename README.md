@@ -5,6 +5,8 @@ Esse é uma simulação de projeto de insight, para uma empresa fictícia "Lojas
 neste projeto usamos um dataset com informações de vendas, cadastro de clientes e de produtos,
 simulando análise de dados para levantamento de informações importantes sobre negócio. 
 
+- <a hre="https://github.com/dev-daniel-amorim/DS-Projeto-Insights-01/blob/main/DS-Insights-01.ipynb"> Clique aqui para abrir o projeto</a>
+
 # Passos para criação de um projeto de insights:<br>
 
 - Simular um problema de negócio;
