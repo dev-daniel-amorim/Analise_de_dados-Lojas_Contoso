@@ -1,11 +1,10 @@
-# DS-Projeto-Insights-01
-## Lojas Contoso
+# Análise de dados - Lojas Contoso
 
 Essa é uma simulação de projeto de insight para uma empresa fictícia "Lojas Contoso", 
 neste projeto usamos um dataset com informações de vendas, cadastro de clientes e de produtos
 para simular análise de dados para levantamento de informações importantes sobre negócio da empresa. 
 
-- <a href="https://github.com/dev-daniel-amorim/DS-Projeto-Insights-01/blob/main/DS-Insights-01.ipynb"> Clique aqui para abrir o projeto</a>
+- <a href="https://github.com/dev-daniel-amorim/DS-Projeto-Insights-01/blob/main/DS-Insights-01.ipynb"> Clique aqui para abrir a solução do projeto</a>
 
 # Passos para criação de um projeto de insights:<br>
 
