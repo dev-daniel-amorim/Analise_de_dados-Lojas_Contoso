@@ -13,7 +13,7 @@ Um panorama geral através dos dados colhidos ao longo dos anos.
 Como a empresa trabalha e quais suas dificuldades?<br>
 A empresa Contoso trabalha com diversos produtos eletrônicos e diversas lojas espalhadas pelo mundo, conta também com uma loja virtual. Seus gestores globais tem dificuldades em saber diante das inúmeras informações em seus bancos de dados o que se passa em cada loja, quais produtos investir, quais devem diminuir o estoque, quais lojas faturam mais, quais trabalham no vermelho. Enfim, devemos utilizar seus dados para fazer um raio X sobre o que acontece nas lojas.
 
-OBS: Esse material tem o intuito didático, para aprender o uso das ferramentas de análises de dados (manipulação de dados e plotagem gráfica) e o passo a passo sobre análise, então foi feita uma análse superficial sobre a empresa fictícia.
+OBS: Esse material tem o intuito didático, para aprender o uso das ferramentas de análises de dados (manipulação de dados e plotagem gráfica) e o passo a passo sobre análise, então foi feita somente uma análise superficial sobre a empresa fictícia e não uma análise aprofundada pois esse não era o objetivo.
 
 ### Código fonte
 
