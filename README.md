@@ -15,7 +15,7 @@ A empresa Contoso trabalha com diversos produtos eletrônicos e diversas lojas e
 
 OBS: Esse material tem o intuito didático, para aprender o uso das ferramentas de análises de dados (manipulação de dados e plotagem gráfica) e o passo a passo sobre análise não foi feito aqui um estudo mais aprofundado sobre a empresa fictícia pois esse não era o objetivo.
 
-## Código fonte
+### Código fonte
 
 - <a href="https://github.com/dev-daniel-amorim/DS-Projeto-Insights-01/blob/main/DS-Insights-01.ipynb"> Clique aqui para abrir a solução do projeto</a>
 
